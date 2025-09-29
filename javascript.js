@@ -1,0 +1,1 @@
+alert("Ez egy felhívás!");
